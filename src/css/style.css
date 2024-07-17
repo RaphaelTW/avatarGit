@@ -1,0 +1,43 @@
+body {
+  background-color: #121212; /* Fundo escuro */
+  color: #ffffff; /* Texto claro */
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.swal2-popup {
+  border: none; /* Remove bordas do popup */
+  background-color: #333333; /* Fundo escuro do popup */
+  color: #ffffff; /* Texto claro no popup */
+}
+
+.swal2-title {
+  color: #ffffff; /* Cor do título */
+}
+
+.swal2-content {
+  color: #ffffff; /* Cor do conteúdo */
+}
+
+.swal2-input {
+  background-color: #555555; /* Fundo escuro do input */
+  color: #ffffff; /* Texto claro no input */
+  border: none; /* Remove bordas do input */
+}
+
+.swal2-confirm {
+  background-color: #4CAF50; /* Fundo do botão confirmar */
+  color: #ffffff; /* Texto do botão confirmar */
+  border: none; /* Remove bordas do botão */
+}
+
+.swal2-cancel {
+  background-color: #f44336; /* Fundo do botão cancelar */
+  color: #ffffff; /* Texto do botão cancelar */
+  border: none; /* Remove bordas do botão */
+}
